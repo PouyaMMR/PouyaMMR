@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-💻 I'm Pouya, medior front-end Developer and open-source newbie<br>🙋‍♂️ Pronouns: he/him<br>⚡️ Interested in React, Next.js, TypeScript (with a T)<br>🔭 Open to work at the moment<br>💬 Feel free to ask anything about front-end development
+💻 I'm Pouya, medior front-end Developer and open-source newbie<br>🙋‍♂️ Pronouns: he/him<br>⚡️ Interested in React, Next.js, and TypeScript (with a T)<br>🔭 Open to work at the moment<br>💬 Feel free to ask anything about front-end development
 
 
 ## 🌐 Socials:
