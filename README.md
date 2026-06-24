@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-💻 I'm Pouya, a medior front-end Developer with 4+ years of experience and open-source newbie<br>🙋‍♂️ Pronouns: he/him<br>⚡️ Interested in React, Next.js, and TypeScript (with a T)<br>🔭 Open to work at the moment<br>💬 Feel free to ask anything about front-end development<br>📫 How to reach me [**pouyammr@outlook.com**](mailto:pouyammr@outlook.com)<br>⚡ Fun fact **They call me the human Wikipedia.**
+💻 I'm Pouya, a medior front-end Developer with 5+ years of experience and open-source newbie<br>🙋‍♂️ Pronouns: he/him<br>⚡️ Interested in React, Next.js, and TypeScript (with a T)<br>🔭 Building FoodRo at SnappFood<br>💬 Feel free to ask anything about front-end development<br>📫 How to reach me [**pouyammr@outlook.com**](mailto:pouyammr@outlook.com)<br>⚡ Fun fact **They call me the human Wikipedia.**
 
 
 ## 🌐 Socials:
