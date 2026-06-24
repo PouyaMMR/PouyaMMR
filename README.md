@@ -7,7 +7,7 @@
 
 <a href="https://linkedin.com/in/pouyammr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pouyammr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12597506/pouya-mmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pouya-mmr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pouyammr" target="blank"><img align="center" src="https://github.com/f488765f-5ecb-4c2e-a3ef-01f3eedd2459" alt="pouyammr" height="30" width="40" /></a>
+<a href="https://pouyammr.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/PouyaMMR/pouyammr.github.io/refs/heads/master/app/favicon.ico" alt="portfolio website" height="40" width="40" /></a>
 
 
 # 💻 Tech Stack:
